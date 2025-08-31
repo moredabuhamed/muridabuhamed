@@ -10,3 +10,11 @@ The website is fully **responsive** and includes:
 - A working contact form
 
 It serves as a central place where recruiters, collaborators, and visitors can learn more about me and my work.
+
+## 🌐 Live Demo
+
+You can view my portfolio live here:  
+👉 [Murid Abu Hamed - Portfolio](https://moredabuhamed.github.io/muridabuhamed/)
+
+*(This site is hosted on GitHub Pages. I am continuously improving its design and features to make it more professional and visually appealing.)*
+
