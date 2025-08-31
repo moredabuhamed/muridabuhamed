@@ -18,3 +18,14 @@ You can view my portfolio live here:
 
 *(This site is hosted on GitHub Pages. I am continuously improving its design and features to make it more professional and visually appealing.)*
 
+## 📂 Project Structure
+
+This portfolio website is organized into the following core files and folders:
+
+- `index.html` – The main HTML page of the site
+- `styles/` – Contains all CSS files for layout, themes, and responsive design
+- `scripts/` – Includes JavaScript files for interactivity, animations, sliders, and form handling
+- `assets/` – Stores images, icons, and other media used in the website
+
+The project is lightweight and easy to maintain, with clear separation between structure (HTML), styling (CSS), and functionality (JavaScript).
+
