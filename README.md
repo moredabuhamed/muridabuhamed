@@ -20,12 +20,12 @@ You can view my portfolio live here:
 
 ## 📂 Project Structure
 
-This portfolio website is organized into the following core files and folders:
+This portfolio website is organized as follows:
 
-- `index.html` – The main HTML page of the site
-- `styles/` – Contains all CSS files for layout, themes, and responsive design
-- `scripts/` – Includes JavaScript files for interactivity, animations, sliders, and form handling
-- `assets/` – Stores images, icons, and other media used in the website
+- `index.html` – The main HTML file that builds the structure of the site
+- `assets/` – Contains all supporting files and resources:
+  - `css/` – All CSS files for layout, design, and responsive behavior
+  - `js/` – JavaScript files for interactivity, animations, sliders, and form handling
+  - `img/` – Icons, profile photos, and other media assets (if any)
 
-The project is lightweight and easy to maintain, with clear separation between structure (HTML), styling (CSS), and functionality (JavaScript).
 
